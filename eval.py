@@ -1,5 +1,5 @@
-build a simple arithmetic calculator that takes in input
-the calculator uses the eval function to run
+#build a simple arithmetic calculator that takes in input
+#the calculator uses the eval function to run
 def calculator():
     while True: 
         calc = input("Enter calculation (or 'done' to exit): ") #takes user inputt if user input is done ends the operation
